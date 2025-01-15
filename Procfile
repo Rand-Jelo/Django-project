@@ -1,1 +1,1 @@
-web: gunicorn django-project-rand.wsgi
+web: gunicorn my_project.wsgi
